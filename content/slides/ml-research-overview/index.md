@@ -36,9 +36,9 @@ slides:
 ---
 
 # Machine Learning
-## Research Overview 2025
+## Sayram Complete 2025
 
-Dr. Example Researcher
+Dr. HELLO WORLD
 
 ---
 
