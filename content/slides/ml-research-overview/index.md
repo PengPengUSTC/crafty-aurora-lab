@@ -1,29 +1,33 @@
 ---
-title: "Machine Learning Research Overview"
+title: Machine Learning Research Overview
 date: 2025-12-25
-description: "A research presentation on recent advances in deep learning and neural networks"
-authors: ["me", "Dr. Example Researcher"]
-tags: ["machine-learning", "research", "data-science"]
-topics: ["deep-learning", "transformers", "neural-networks"]
-venue: "ICML 2025"
-event: "International Conference on Machine Learning"
-citation: "Researcher, E., Smith, J., & Doe, J. (2025). Machine Learning Research Overview. ICML 2025."
+description: A research presentation on recent advances in deep learning and neural networks
+authors:
+  - me
+  - Dr. Example Researcher
+tags:
+  - machine-learning
+  - research
+  - data-science
+topics:
+  - deep-learning
+  - transformers
+  - neural-networks
+venue: ICML 2025
+event: International Conference on Machine Learning
+citation: Researcher, E., Smith, J., & Doe, J. (2025). Machine Learning Research
+  Overview. ICML 2025.
 type: slides
-
-# HugoBlox standard links structure
 links:
   - type: preprint
-    url: "https://arxiv.org/abs/example"
+    url: https://arxiv.org/abs/example
     icon: hero/document-text
   - type: code
-    url: "https://github.com/example/ml-research"
+    url: https://github.com/example/ml-research
     icon: hero/code-bracket
-
-# HugoBlox standard identifiers - auto-generates DOI link
 hugoblox:
   ids:
-    doi: "10.1234/example.doi"
-
+    doi: 10.1234/example.doi
 slides:
   theme: black
   highlight_style: dracula
@@ -33,6 +37,8 @@ slides:
     progress: true
     slideNumber: true
     hash: true
+draft: false
+
 ---
 
 # Machine Learning

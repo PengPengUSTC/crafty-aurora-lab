@@ -26,9 +26,9 @@ hugoblox:
     mode: system                        # light | dark | system
     pack: "default"
     colors:
-      primary: ""
-      secondary: ""
-      neutral: ""
+      primary: "yellow"
+      secondary: "red"
+      neutral: "green"
 
   # ────────────────────────────────────────────────────────────────────────────
   # TYPOGRAPHY
